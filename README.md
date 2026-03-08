@@ -25,6 +25,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | fa        | Persian               | [link](/translations/fa/year.md)      | [link](/translations/fa/decade.md)      |
 | fi        | Finnish               | [link](/translations/fi/year.md)      | [link](/translations/fi/decade.md)      |
 | fr        | French                | [link](/translations/fr/year.md)      | [link](/translations/fr/decade.md)      |
+| he        | Hebrew                | [link](/translations/he/year.md)      | [link](/translations/he/decade.md)      |
 | hi        | Hindi                 | [link](/translations/hi/year.md)      | [link](/translations/hi/decade.md)      |
 | hu        | Hungarian (Magyar)    | [link](/translations/hu/year.md)      | [link](/translations/hu/decade.md)      |
 | id        | Indonesian            | [link](/translations/id/year.md)      | [link](/translations/id/decade.md)      |
